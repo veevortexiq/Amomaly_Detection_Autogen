@@ -1,4 +1,4 @@
-# Amomaly_Detection_Autogen
+# Anomaly_Detection_Autogen
 
 ## Prerequisites
 #### Before running the script, ensure you have the following Python packages installed:
